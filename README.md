@@ -2,8 +2,13 @@
 Multi type aircraft Remote sensing Images - Classification
 In this project we will use Transfer Learning for Image Classification.
 
+
+
 **Model**
 ```Vgg16 Pretrained Model```
+
+**Activation Function**
+```Softmax```
 
 **Dataset**
 ``` MTARSI```
