@@ -2,7 +2,8 @@
 Multi type aircraft Remote sensing Images - Classification
 In this project we will use Transfer Learning for Image Classification.
 
-
+**GPU Used**
+```NVIDIA TESLA P100 ```
 
 **Model**
 ```Vgg16 Pretrained Model```
